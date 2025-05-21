@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "autorefresh@example.com": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://raw.githubusercontent.com/an4i2/autorefresh/main/autorefresh.xpi",
+          "update_hash": "sha256:28338e8e1110f9697e7e1110b7404f09118166b7f0b66671d2db5a5eba363ab2"
+        }
+      ]
+    }
+  }
+} 
